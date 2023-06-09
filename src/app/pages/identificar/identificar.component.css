@@ -1,0 +1,6 @@
+.jumbotron {
+    width: 80%;
+    padding: 20px;
+    font-size: 18px;
+    margin: 0 auto; /* Esto centrará horizontalmente el contenedor */
+  }

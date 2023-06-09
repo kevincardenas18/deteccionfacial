@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "deteccionfaceapi": {
+      "hosting": {
+        "deteccionFacial": [
+          "deteccionfaceapi"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "deteccionfaceapi"
+  }
+}

@@ -1,0 +1,15 @@
+<table>
+    <thead>
+      <tr>
+        <th>Usuario</th>
+        <th>Fecha de Asistencia</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of tablaDatos">
+        <td>{{ item.usuario }}</td>
+        <td>{{ item.fechaAsistencia }}</td>
+      </tr>
+    </tbody>
+  </table>
+  
